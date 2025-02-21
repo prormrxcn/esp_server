@@ -3,7 +3,7 @@
 
 // AP credentials
 const char* ssid = "ESP_32_server";  // Your AP name
-const char* password = "deepanshi"; // Your AP password
+const char* password = "YOUR_pwd"; // Your AP password
 
 WebServer server(80);
 
